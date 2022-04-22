@@ -46,27 +46,32 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+w3 schools
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+A challenge I encountered I guess was creating a web project. I had been working with swift and x code for the past 3 months. Brushing up on my web development skills had me notice the specific differences between native mobile programming and web development languages. The only challenge I had was making sound work, as in when I was debugging I wasn’t sure if my browser was having issues or if it was the code. In the end, I restarted my machine and it was an IT issue and not software issue.
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+
+3. What questions about web development do you have after completing your submission? 
+The only question I can think of,  when is web development languages viable to use over native mobile development languages? Is it for budget reasons or does it matter up to a certain user scale. Is there a point in a legacy product when it is more viable to use docker & kubernetes vs building up a native mobile application.
+
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
+
+For this project, if I had more hours available, I would add a registration page hooked up to a MongoDB database. The reasoning behind this is to save history between users and see how the user can get better at the game. I would also like to have added a timer and score tracker which would be calculated by speed and accuracy. After this is implemented, I would add better functionality by devices so they are optimized for a variety of screen sizes. A reward feature could also be added to the game based on how many levels are completed or by adding a payment system. With a video sharing API I would also like to add group matches with friends where they can have video chat support.
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]https://streamable.com/p6y2oq
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Nikita Wilson
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
