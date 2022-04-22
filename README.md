@@ -6,7 +6,7 @@ Submitted by: **Nikita Wilson**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/luxuriant-ripe-shallot?path=index.html%3A1%3A0
 
 ## Required Functionality
 
