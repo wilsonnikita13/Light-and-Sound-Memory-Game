@@ -125,11 +125,11 @@ function guess(btn){
 
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
-  3: 392,
-  4: 466.2,
-  5: 500
+  1: 271.3,
+  2: 369.6,
+  3: 419.7,
+  4: 471,
+  5: 540
 }
 function playTone(btn,len){ 
   o.frequency.value = freqMap[btn]
